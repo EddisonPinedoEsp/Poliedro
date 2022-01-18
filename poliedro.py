@@ -22,3 +22,6 @@ for i in range(6):
             right(180)
             
 done()
+
+a = 20
+b = 210
