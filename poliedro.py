@@ -22,3 +22,5 @@ for i in range(6):
             right(180)
             
 done()
+
+#se utiliza la libreria turtle 
